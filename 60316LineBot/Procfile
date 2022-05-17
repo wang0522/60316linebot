@@ -1,0 +1,1 @@
+web gunicorn 60316app:app
